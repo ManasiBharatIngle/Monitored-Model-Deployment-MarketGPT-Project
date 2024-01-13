@@ -7,7 +7,7 @@ Model is deployed on Render
 https://monitored-model-deployment-marketgpt.onrender.com/
 
 All code files have been added in this git repo
-https://github.com/ManasiBharatIngle/Model-Deployment-MarketGPT-Project
+https://github.com/ManasiBharatIngle/Monitored-Model-Deployment-MarketGPT-Project
 
 Currently the model will be taking 10 sales values, each corresponding to one lag as input and will be giving the scaled sales prediction as output.
 To get the actual sales value we will have to change the model pipeline. Other features can also be added according to our requirement.
