@@ -1,4 +1,4 @@
-# Model-Deployment-MarketGPT-Project
+# Monitored-Model-Deployment-MarketGPT-Project
 
 Command to start -->
 uvicorn app:app --host 0.0.0.0 --port 10001
